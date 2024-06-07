@@ -1,6 +1,9 @@
-<h1>Hi! I'm Cafer!</h1>
+<h1 align="center">Hi! I'm Cafer!</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caferpoyrazoglu&label=Profile%20views&color=0e75b6&style=flat" alt="caferpoyrazoglu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caferpoyrazoglu" alt="caferpoyrazoglu" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Framework**
 
@@ -10,9 +13,7 @@
 
 - 📫 How to reach me **cafererhan@gmail.com**
 
-- 📄 Know about my experiences [google.com](google.com)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caferpoyrazoglu" alt="caferpoyrazoglu" /></a> </p>
+- 📄 Know about my experiences [caferpoyrazoglu.com/about](caferpoyrazoglu.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
